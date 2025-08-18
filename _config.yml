@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jessica Persano"
-  pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # pronouns  
+  bio              : "Pre-Doctoral Research Fellow at Stanford GSB"
   location         : "Stanford, California"
-  employer         : "Stanford University Graduate School of Business"
+  employer         : "Stanford University<br>Graduate School of Business"
   uri              : # URL
   email            : "jpersano@stanford.edu" 
 
