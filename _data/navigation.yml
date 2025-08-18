@@ -12,7 +12,7 @@ main:
     url: /files/Persano_CV.pdf
 
   - title: "Research"
-    url: /_pages/research_presentations.md
+    url: /research/
 
  # - title: "Presentations"
  #   url: /talks/    
