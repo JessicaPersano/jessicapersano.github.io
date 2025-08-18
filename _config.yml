@@ -13,7 +13,7 @@ title                    : "Jessica Persano"
 title_separator          : "-"
 name                     : &name "Jessica Persano"
 description              : &description "I am a pre-doctoral research fellow at the Stanford Graduate School of Business, where I work with Professor Andrew Hall on projects in political economy, political methodology, and American politics. I hold a B.A. in Political Science (Honors) and a B.A. in Geography/Environmental Studies from UCLA. My research interests center on election administration, political representation, and the application of data science to social science questions. I am committed to evidence-based advocacy and plan to pursue a Ph.D. in political science with the goal of producing research that informs both academic understanding and public policy."
-url                      : https://jessicapersano.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://jessicapersano.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
