@@ -17,7 +17,7 @@ author_profile: true
 
 ### *Working Papers*
 
-Police Chief Performance and Turnover<br>
+[Police Chief Performance and Turnover](/files/Police_Chief_Turnover_paper.pdf)<br>
 *Working paper with Daniel Thompson*
 
 Exploring Sexual Assault Experiences and Access to Resources Among UCLA Students with Disabilities<br>
