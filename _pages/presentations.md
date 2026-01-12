@@ -7,6 +7,9 @@ author_profile: true
 
 # Posters and Presentations
 
+[Investing in Political Expertise: The Remarkable Scale of Corporate Policy Teams](/files/Corporate_Policy_Teams.pdf)<br>
+*Paper presented at Stanford GSB RF Program Weekly Workshop (Stanford, CA)*
+
 [From Office to Opportunity: Evaluating the Role of Descriptive Representation on Candidate Emergence in U.S. Swing States](/files/PS170A_Final_Poster.pdf)<br>
 *Poster presented at UCLA PS170A Poster Day, June 2025 (Los Angeles, CA)*
 
