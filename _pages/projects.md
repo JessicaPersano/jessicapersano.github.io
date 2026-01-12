@@ -1,27 +1,11 @@
 ---
-layout: archive
-title: "Other Projects"
 permalink: /projects/
 author_profile: true
 ---
 
+---
+
 # Other Projects
 
-### *Data Science & Programming*
-
-[Project Title Here](/files/project_file.pdf)  
-*Brief description of the project and your role*
-
-[Another Project Title](/files/another_file.pdf)  
-*Brief description of the project*
-
-### *Community Involvement & Leadership*
-
-Project or Activity Title  
-*Description of your involvement, dates, location*
-
-### *Additional Work*
-
-Project Title  
-*Description*
-
+[From Personnel to Policy: Project 2025 Is President Donald Trump's Agenda](https://www.americanprogressaction.org/article/from-personnel-to-policy-project-2025-is-president-donald-trumps-agenda/)<br>
+*Co-authored policy analysis with Ryan Koronowski and Thomas Musgrave (Center for American Progress Action Fund), August 2024*
