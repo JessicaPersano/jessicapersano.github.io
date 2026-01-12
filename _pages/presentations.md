@@ -21,6 +21,6 @@ author_profile: true
 
 # Professional Conference Presentations
 
-[Are Police Leaders Held Accountable for Performance](/files/Police_Chief_Turnover_slides.pdf)<br>
+[Are Police Leaders Held Accountable for Performance?](/files/Police_Chief_Turnover_slides.pdf)<br>
 *Justice and Injustice Mini-Conference, Massachusetts Institute of Technology, November 2025 (Cambridge, MA)*
 
