@@ -18,3 +18,9 @@ author_profile: true
 
 [Exploring Sexual Assault Experiences and Access to Resources Among UCLA Students with Disabilities](/files/2024_SA_URW_Presentation.pdf)<br>
 *Paper presented at UCLA Undergraduate Research Week, May 2024 (Los Angeles, CA)*
+
+# Professional Conference Presentations
+
+[Are Police Leaders Held Accountable for Performance](/files/Police_Chief_Accountability.pdf)<br>
+*Justice and Injustice Mini-Conference, Massachusetts Institute of Technology (Cambridge, MA)*
+
