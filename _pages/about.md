@@ -17,5 +17,5 @@ My broader research interests include election administration, political represe
 ---
 
 ### Education
-- **Stanford University Graduate School of Business** — Non-Matriculated Student as a Predoctoral Research Fellow (2025–present)  
+- **Stanford University Graduate School of Business** — Non-Matriculated Graduate Student as a Pre-doctoral Research Fellow (2025-Present)  
 - **University of California, Los Angeles** — B.A. in Political Science (Honors), B.A. in Geography/Environmental Studies (2021–2025)  
