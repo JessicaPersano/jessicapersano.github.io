@@ -15,7 +15,7 @@ author_profile: true
 [The Determinants of Policy Representation: Evaluating the Role of Policy Type in the U.S. States](/files/Persano_Policy_Responsiveness_Thesis.pdf)<br>
 *Solo-authored senior honors thesis (UCLA Political Science Department), April 2025*
 
-### *Working Papers*
+### *Works in Progress*
 
 [Police Chief Performance and Turnover](/files/Police_Chief_Turnover_paper.pdf)<br>
 *Working paper with Daniel Thompson*
@@ -23,5 +23,5 @@ author_profile: true
 Exploring Sexual Assault Experiences and Access to Resources Among UCLA Students with Disabilities<br>
 *Working solo-authored independent research project*
 
-Survivors’ Experiences with and Recommendations for Improving Responses to Sexual Violence at UCLA<br>
+Survivors' Experiences with and Recommendations for Improving Responses to Sexual Violence at UCLA<br>
 *Working paper with Jennifer Wagman, Georgia Lavery Van Parijs, and Julianne Lempert*
