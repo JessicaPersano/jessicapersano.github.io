@@ -21,7 +21,7 @@ author_profile: true
 *Joint with Samuel G.Z. Asher, Janet Malzahn, Elliot J. Paschal, Andrew C. W. Myers, and Andrew B. Hall. Feb 2026.*
 
 [Police Chief Performance and Turnover](/files/Police_Chief_Turnover_paper.pdf)<br>
-*Joint with Daniel Thompson. Nov 2025.*
+*Joint with Daniel M. Thompson. Nov 2025.*
 
 ### *Works in Progress*
 
