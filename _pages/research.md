@@ -20,7 +20,7 @@ author_profile: true
 [Do Claude Code and Codex P-Hack? Sycophancy and Statistical Analysis in Large Language Models](/files/asher_et_al_LLM_sycophancy.pdf)<br>
 *Joint with Samuel G.Z. Asher, Janet Malzahn, Elliot J. Paschal, Andrew C. W. Myers, and Andrew B. Hall. Feb 2026.*
 
-[Police Chief Performance and Turnover](/files/Police_Chief_Turnover_paper.pdf)<br>
+Police Chief Performance and Turnover<br>
 *Joint with Daniel M. Thompson. Nov 2025.*
 
 ### *Works in Progress*
