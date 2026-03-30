@@ -9,6 +9,9 @@ author_profile: true
 
 ### *Completed Papers*
 
+[Same People, Different Places: Geographic Context and Vote Choice in the Trump Electorate](/files/Geographic_Divide_Trump.pdf)<br>
+*Stanford PS427F final paper. Mar 2026.*
+
 [From Office to Opportunity: Evaluating the Role of Descriptive Representation on Candidate Emergence in U.S. Swing States](/files/PS170A_Descriptive_Representation.pdf)<br>
 *UCLA PS170A final paper; joint with Jolie Anderson and Xuanting Fan. Jun 2025.*
 
