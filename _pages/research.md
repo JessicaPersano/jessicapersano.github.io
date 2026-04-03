@@ -32,4 +32,4 @@ Exploring Sexual Assault Experiences and Access to Resources Among UCLA Students
 *Solo-authored independent research project*
 
 Survivors' Experiences with and Recommendations for Improving Responses to Sexual Violence at UCLA<br>
-*Joint with Jennifer Wagman, Georgia Lavery Van Parijs, and Julianne Lempert*
+*Joint with Georgia Lavery Van Parijs, Julianne Lempert, Wafa Khan, Natalie Saham, Taylor Thomas, and Jennifer Wagman
